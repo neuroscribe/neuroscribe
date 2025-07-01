@@ -15,7 +15,7 @@ Founder's:
 💬 **Ask me about** getting started with ML/DL projects , AI research , writing and publishing your first paper, contributing to  ML projects, and how to build a strong research profile as a student.
 
 ## 📫 Connect with Us on : 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/linkedin.com/company/neuroscribe) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://www.youtube.com/@neuroscribe72 ) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:neuroscribe72@gmail.com) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/company/neuroscribe) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@neuroscribe72 ) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:neuroscribe72@gmail.com) 
 * WhatsApp Channel : https://chat.whatsapp.com/DMma8L9GpLM3Or0Jq6EGkT 
 
 # 💻 Tech Stack:
