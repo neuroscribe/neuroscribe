@@ -5,7 +5,7 @@ NeuroScribe is a student-led research community dedicated to empowering undergra
 
 Founder's: 
 * Gargi Bhardwaj, CSE-AI'25 Upcoming SDE Morgan Stanley 
-* Abhiruchi Sarswat, CSE-AI'25 Upcoming SDE Walmart : https://github.com/abhi03ruchi 
+* ![Abhiruchi Sarswat](https://github.com/abhi03ruchi), CSE-AI'25 Upcoming SDE Walmart 
 * Tarushi, CSE-AI'25 Upcoming Technology Analys Deutsche Bank 
 
 🔭 **We are currently working on building a** collaborative ecosystem for undergraduate students to explore cutting-edge topics in Machine Learning, Deep Learning, and Artificial Intelligence through hands-on projects and impactful research.
